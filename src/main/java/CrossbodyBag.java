@@ -35,9 +35,6 @@ public class CrossbodyBag extends Bag{
      * Creates a new CrossbodyBag with the given color and
      * capacity.
      *
-     * @param color
-     * @param capacity
-     * @param numberOfStraps
      */
     private String color;
     private int numberOfContents;
